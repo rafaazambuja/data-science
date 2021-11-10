@@ -1,12 +1,11 @@
-version: '2.1'
+version: '3'
 services:
     jupyter:
-        image: docker-jupyter-extensible:latest
+        image: jupyter/datascience-notebook:latest
         restart: 'no'
         volumes:
             - ./notebooks:/home/jovyan/
         ports:
             - "8888:8888"
         environment:
-            NB_UID: ${UID}
-            NB_GID: ${GID}
+            - JUPYTER_ENABLE_LAB=yes
