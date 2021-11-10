@@ -4,7 +4,7 @@ services:
         image: jupyter/datascience-notebook:latest
         restart: 'no'
         volumes:
-            - ./notebook:/home/jovyan/
+            - ./notebooks:/home/jovyan/
         ports:
             - "8888:8888"
         environment:
