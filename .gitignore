@@ -3,5 +3,6 @@
 
 notebooks/.local/
 notebooks/.cache/
+notebooks/.ipython
 notebooks/.ipython/
-notebooks/.jupyter
+notebooks/.jupyter/
