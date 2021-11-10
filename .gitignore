@@ -1,8 +1,8 @@
 #Arquivos de checkpoint do Jupyter
 .ipynb_checkpoints
 
-notebooks/.local/
-notebooks/.cache/
-notebooks/.ipython
-notebooks/.ipython/
-notebooks/.jupyter/
+.local/
+.cache/
+.ipython
+.ipython/
+.jupyter/
