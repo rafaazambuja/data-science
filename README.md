@@ -1,7 +1,10 @@
 
-# Repositório para utilização do Data Science Degree - [Let's Code](https://www.letscode.com.br/degree/ds)
+# Data Science Degree - [Let's Code](https://www.letscode.com.br/degree/ds)
 
-Para rodar o ambiente de trabalho do Jupyter Lab com os notebooks de aulas, exercícios e avaliações basta seguir os dois passos abaixo:
+Repositório criado para utilização na formação de data science, onde serão colocados todos os arquivos de aula, exercícios e avalização.
+
+
+Para rodar o ambiente de trabalho do Jupyter Lab com os notebooks basta seguir os dois passos abaixo:
 
 ## Inicializando Ambiente
 
